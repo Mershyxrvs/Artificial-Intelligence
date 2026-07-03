@@ -1,0 +1,6 @@
+numpy>=1.21
+tensorflow>=2.8
+matplotlib>=3.4
+Pillow>=9.0
+requests>=2.26
+jupyter>=1.0
